@@ -18,12 +18,12 @@ Data Science Portofolio
 * This project makes a list of 50 popular anime with at least 500 users giving reviews.
 * The model used in this project is Surprise SVD.
 
-[Time Series : Sales Prediction](https://github.com/awinardi1004/portofolio-winardi/blob/main/Sales_time__Series.ipynb)
+# [Time Series : Sales Prediction](https://github.com/awinardi1004/portofolio-winardi/blob/main/Sales_time__Series.ipynb)
 * This project predicts sales for the next month.
 * The model used is SARIMAX.
 * Based on the plot that has been made, it is known that there is a trend of increasing sales every month. We can also see the graph fluctuate periodically, which is a sign of seasonality.
 
-[Deep Learning : Stock Price Prediction](https://github.com/awinardi1004/portofolio-winardi/blob/main/Case_Study_04_Stock_Price_Prediction.ipynb)
+# [Deep Learning : Stock Price Prediction](https://github.com/awinardi1004/portofolio-winardi/blob/main/Case_Study_04_Stock_Price_Prediction.ipynb)
 * This project aims to guess the stock price.
 * The model used in this project is LTSM.
 * The result obtained in this model is that the stock price tends to rise.
